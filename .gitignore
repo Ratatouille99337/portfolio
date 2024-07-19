@@ -1,5 +1,7 @@
 # Dependency packages files
 node_modules/
+.firebase/
+.next/
 
 # Output
 dist/
